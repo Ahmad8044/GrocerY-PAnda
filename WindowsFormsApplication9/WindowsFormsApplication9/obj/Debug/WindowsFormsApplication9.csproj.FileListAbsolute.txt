@@ -28,3 +28,6 @@ C:\Users\Ahmad\Desktop\login\WindowsFormsApplication9\WindowsFormsApplication9\o
 C:\Users\Ahmad\Desktop\login\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
 C:\Users\Ahmad\Desktop\login\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
 C:\Users\Ahmad\Desktop\login\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+F:\New folder\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+F:\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+F:\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
