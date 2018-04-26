@@ -27,3 +27,6 @@ C:\Users\Ahmad\Desktop\login register\Ahmad\Ahmad\obj\Debug\Ahmad.Form2.resource
 C:\Users\Ahmad\Desktop\login register\Ahmad\Ahmad\obj\Debug\Ahmad.Form3.resources
 C:\Users\Ahmad\Desktop\login register\Ahmad\Ahmad\obj\Debug\Ahmad.Properties.Resources.resources
 C:\Users\Ahmad\Desktop\login register\Ahmad\Ahmad\obj\Debug\Ahmad.csproj.GenerateResource.Cache
+F:\New folder\Ahmad\Ahmad\bin\Debug\Ahmad.exe.config
+F:\New folder\Ahmad\Ahmad\obj\Debug\Ahmad.exe
+F:\New folder\Ahmad\Ahmad\obj\Debug\Ahmad.pdb
